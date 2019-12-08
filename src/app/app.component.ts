@@ -9,7 +9,6 @@ export class AppComponent {
   title = 'tp-technique-front';
 
   constructor(
-    private router: Router,
   ) {}
 
 
